@@ -209,7 +209,7 @@ $ make csim
 
 Note that this is a GNU Make build system, if you are running this on a non-GNU platform then GNU Make may be called `gmake` or similar and not `make`.
 
-This will produce an executable in `c_emulator/cheriot_sim`.
+This will produce an executable in `sail-riscv/c_emulator/cheriot_sim`.
 This can be copied to another location such as somewhere in your path.
 
 ### Installing xmake
